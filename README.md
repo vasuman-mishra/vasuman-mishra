@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vasuman-mishra
-- 👀 I’m interested in competetive coding and Web development 
-- 🌱 I’m currently learning c++ and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in competetive coding and Design and Analysis of Algorithm
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on algorithm making and problem solviong
 
 <!---
 vasuman-mishra/vasuman-mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
